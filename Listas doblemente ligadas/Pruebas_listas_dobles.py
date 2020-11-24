@@ -9,4 +9,4 @@ print(f"La lista tiene{ld.get_size()} elementos")
 ld.transversal()
 ld.reverse_transversal()
 ld.remove_from_head(10)
-ld.transversal
+ld.transversal()
